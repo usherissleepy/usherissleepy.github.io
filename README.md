@@ -1,5 +1,7 @@
 # usherissleepy.github.io
 
+This project provided me an opportunity to build something with AI assistance. Check out my [AI Usage Document](https://docs.google.com/document/d/1Ac035KCDPeoM521QhSb2H2QHY2uPJrQMNlQx7sXHjLE/edit?usp=sharing) to see how I used AI on this project.
+
 1. Share one technical concept that you developed greater mastery over in this project. Demonstrate how you understand that concept by sharing your mental model of the concept. Then, show how you used that concept in your project.
 
 One technical concept I improved a lot in this project was using Flexbox for layout in CSS. I think of Flexbox as a way to line things up and space them out without having to guess positions or use messy margins. It helped me understand how elements can move and adjust depending on screen size. I used Flexbox in my navigation bar, hero section, and project layout so everything stayed organized and responsive.
