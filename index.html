@@ -139,9 +139,12 @@
   action="https://formspree.io/f/mkobwarr"
   method="POST"
 >
-    <input type="text" placeholder="Name" required />
-    <input type="email" placeholder="Email" required />
-    <textarea placeholder="Message" required></textarea>
+    <label for="name"></label>
+    <label for="email"></label>
+    <label for="message"></label>
+    <input type="text" placeholder="Name" name="name" id="name" required />
+    <input type="email" placeholder="Email" name="email" id="email" required />
+    <textarea placeholder="Message" name="message" id="message"></textarea>
     <button>SEND →</button>
   </form>
 </section>
